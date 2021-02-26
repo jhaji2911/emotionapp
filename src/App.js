@@ -13,8 +13,8 @@ import './App.css';
 
 
 function App() {
-const videoHeight=500
-const videoWidth=500
+const videoHeight=input.height
+const videoWidth=input.width
 const [intializing, setIntializing] = useState(false);
 const videoRef = useRef(null);
 const canvasRef = useRef(null);
