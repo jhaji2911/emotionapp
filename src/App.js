@@ -5,8 +5,8 @@
 
 import React , {useRef,useEffect,useState} from "react";
 import * as faceapi from 'face-api.js';
-import * as facemesh from "@tensorflow-models/face-landmarks-detection";
-import Webcam from "react-webcam";
+// import * as facemesh from "@tensorflow-models/face-landmarks-detection";
+// import Webcam from "react-webcam";
 
 import './App.css';
 
